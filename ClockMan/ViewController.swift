@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    
+    let gameBook = GameBook()
     let colorWheel = ColorWheel()
     
     override func viewDidLoad() {

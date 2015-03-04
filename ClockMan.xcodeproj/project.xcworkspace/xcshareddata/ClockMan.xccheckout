@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>75650FA2-1F61-4DEB-8B85-71ACF796598E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ClockMan</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>73138656CECBBB94984912EC0ECB7CE3E14E3E7D</key>
+		<string>https://github.com/PalasCorp/Clockman.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ClockMan.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>73138656CECBBB94984912EC0ECB7CE3E14E3E7D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/PalasCorp/Clockman.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>73138656CECBBB94984912EC0ECB7CE3E14E3E7D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>73138656CECBBB94984912EC0ECB7CE3E14E3E7D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ClockMan</string>
+		</dict>
+	</array>
+</dict>
+</plist>
