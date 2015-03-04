@@ -9,6 +9,8 @@
 import UIKit
 
 class ViewController: UIViewController {
+    @IBOutlet var gameLabel: UILabel!
+    @IBOutlet var gameButton: UIButton!
     
     let gameBook = GameBook()
     let colorWheel = ColorWheel()
@@ -23,6 +25,12 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
+    @IBAction func showGame() {
+        var randomColor = colorWheel.randomColor()
+        view.backgroundColor = randomColor
+        gameButton.tintColor = randomColor
+        gameLabel.text = gameBook.randomGame()
+    }
 
 }
 
